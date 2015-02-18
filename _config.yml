@@ -1,10 +1,10 @@
-baseurl: /starter
+baseurl: /testing-prose
 permalink: pretty
 markdown: rdiscount
 prose:
   rooturl: '_posts'
-  siteurl: 'http://prose.github.io/starter/'
-  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
+  siteurl: 'http://thedod.github.io/testing-prose/'
+  relativeLinks: 'http://thedod.github.io/testing-prose/links.jsonp'
   media: 'media'
   metadata:
     _posts:
